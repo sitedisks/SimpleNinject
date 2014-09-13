@@ -3,3 +3,4 @@ D:\Personal\Documents\GitHub\SimpleNinject\SimpleNinject\bin\Debug\SimpleNinject
 D:\Personal\Documents\GitHub\SimpleNinject\SimpleNinject\bin\Debug\SimpleNinject.pdb
 D:\Personal\Documents\GitHub\SimpleNinject\SimpleNinject\obj\Debug\SimpleNinject.exe
 D:\Personal\Documents\GitHub\SimpleNinject\SimpleNinject\obj\Debug\SimpleNinject.pdb
+D:\Personal\Documents\GitHub\SimpleNinject\SimpleNinject\obj\Debug\SimpleNinject.csprojResolveAssemblyReference.cache

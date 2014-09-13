@@ -10,27 +10,13 @@ namespace SimpleNinject
     {
         static void Main(string[] args)
         {
-            Order order = new Order();
+            SqlServerDal dal = new SqlServerDal();
+            MySqlServerDal mydal = new MySqlServerDal();
+
+            Order order = new Order(mydal); //All the dal implement the IDataAccess can inject here
             order.Add();
 
             Console.Read();
-        }
-    }
-
-    public class Order
-    {
-        private readonly SqlServerDal dal = new SqlServerDal();
-        public void Add()
-        {
-            dal.Add();
-        }
-    }
-
-    public class SqlServerDal
-    {
-        public void Add()
-        {
-            Console.WriteLine("Add new record!");
         }
     }
 }
