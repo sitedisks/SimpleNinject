@@ -1,0 +1,5 @@
+D:\Personal\Documents\GitHub\SimpleNinject\SimpleNinject\bin\Debug\SimpleNinject.exe.config
+D:\Personal\Documents\GitHub\SimpleNinject\SimpleNinject\bin\Debug\SimpleNinject.exe
+D:\Personal\Documents\GitHub\SimpleNinject\SimpleNinject\bin\Debug\SimpleNinject.pdb
+D:\Personal\Documents\GitHub\SimpleNinject\SimpleNinject\obj\Debug\SimpleNinject.exe
+D:\Personal\Documents\GitHub\SimpleNinject\SimpleNinject\obj\Debug\SimpleNinject.pdb
