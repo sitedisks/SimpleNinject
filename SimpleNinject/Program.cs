@@ -13,7 +13,9 @@ namespace SimpleNinject
             SqlServerDal dal = new SqlServerDal();
             MySqlServerDal mydal = new MySqlServerDal();
 
-            Order order = new Order(mydal); //All the dal implement the IDataAccess can inject here
+            Order order = new Order(); //All the dal implement the IDataAccess can inject here
+            order.Ida = dal;
+
             order.Add();
 
             Console.Read();
